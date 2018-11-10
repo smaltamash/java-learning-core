@@ -1,0 +1,24 @@
+@charset "UTF-8";
+//form.css  
+.root{  
+    -fx-background-color:Wheat;  
+    -fx-alignment:center;  
+    -fx-background-radius: 100;  
+}  
+.label{  
+    -fx-font-size:18pt;  
+    -fx-font:bold 10pt"Arial";  
+    -fx-padding:10  
+}  
+.button  
+{  
+    -fx-effect:dropshadow(one-pass-box,black,8,0.0,2,0);  
+    -fx-border-radius:20;  
+    -fx-font:bold10pt"Arial";  
+}  
+#title  
+{  
+    -fx-font:bold20pt"Arial";   
+    -fx-effect:dropshadow(one-pass-box,GREEN,8,0.0,2,0);  
+      
+}  

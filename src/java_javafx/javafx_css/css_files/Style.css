@@ -1,0 +1,17 @@
+//Style.css
+.label {
+	-fx-background-color: Black;
+	-fx-text-fill: white;
+	-fx-font-size: 16;
+	-fx-border-color: Wheat;
+	-fx-border-radius: 5;
+}
+
+.button {
+	-fx-background-color: Black;
+	-fx-font-family: courier_new;
+	-fx-text-fill: White;
+	-fx-border-color: Wheat;
+	-fx-border-radius: 5;
+	-fx-font-size: 16;
+}
